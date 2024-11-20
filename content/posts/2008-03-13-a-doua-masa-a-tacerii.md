@@ -4,8 +4,8 @@ date: 2008-03-13T12:00:06+00:00
 categories:
   - Art of Life
   - Azi soarele a apus pe dos
-
 ---
+
 Am aprins lumanarile albastre la
   
 auzul pasilor soaptelor tale prin pene.
