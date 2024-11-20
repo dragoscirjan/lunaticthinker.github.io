@@ -56,7 +56,6 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-          cp -rdf media ./pulic
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
