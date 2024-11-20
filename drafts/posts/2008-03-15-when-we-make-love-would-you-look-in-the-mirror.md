@@ -3,7 +3,7 @@ title: When we make love, would you look in the mirror?
 author: dragos
 type: post
 date: 2008-03-15T11:45:52+00:00
-url: /index.php/when-we-make-love-would-you-look-in-the-mirror/
+url: /when-we-make-love-would-you-look-in-the-mirror/
 categories:
   - Art of Life
   - Azi soarele a apus pe dos

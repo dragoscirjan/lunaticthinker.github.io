@@ -3,8 +3,8 @@ title: Atom – Changing ATOM_HOME
 author: dragos
 type: post
 date: 2016-09-15T08:41:57+00:00
-url: /index.php/atom-changing-atom_home/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2016/05/atom.jpg
+url: /atom-changing-atom_home/
+featured_image: /media/2016/05/atom.jpg
 eltd_hide_background_image_meta:
   - no
 eltd_video_type_meta:

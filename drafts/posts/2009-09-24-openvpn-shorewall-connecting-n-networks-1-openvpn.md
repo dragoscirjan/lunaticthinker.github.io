@@ -3,8 +3,8 @@ title: 'OpenVPN / Shorewall – connecting N networks [#1 OpenVPN]'
 author: dragos
 type: post
 date: 2009-09-24T11:43:25+00:00
-url: /index.php/openvpn-shorewall-connecting-n-networks-1-openvpn/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2010/12/openvpn.jpg
+url: /openvpn-shorewall-connecting-n-networks-1-openvpn/
+featured_image: /media/2010/12/openvpn.jpg
 categories:
   - Linux in a Box
   - Linux Services
@@ -58,7 +58,7 @@ Please note that the routing problem cannot be solved only by OpenVPN software&#
   
 **
 
- [1]: http://openvpn.net/index.php/open-source/documentation/howto.html
+ [1]: http://openvpn.net/open-source/documentation/howto.html
  [2]: https://forum.openwrt.org/viewtopic.php?id=12979 "OpenWRT forums / OpenVPN network"
  [3]: http://dragosc.itmcd.ro/wp-content/uploads/2009/09/openvpn101011.tgz
  [4]: http://dragosc.itmcd.ro/wp-content/uploads/2009/09/openvpn101021.tgz

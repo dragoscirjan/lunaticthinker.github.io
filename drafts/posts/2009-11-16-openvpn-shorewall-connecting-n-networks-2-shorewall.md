@@ -3,8 +3,8 @@ title: 'OpenVPN / Shorewall – connecting N networks [#2 Shorewall]'
 author: dragos
 type: post
 date: 2009-11-16T19:22:11+00:00
-url: /index.php/openvpn-shorewall-connecting-n-networks-2-shorewall/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2010/12/openvpn.jpg
+url: /openvpn-shorewall-connecting-n-networks-2-shorewall/
+featured_image: /media/2010/12/openvpn.jpg
 categories:
   - Linux in a Box
   - Linux Services

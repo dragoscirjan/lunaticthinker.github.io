@@ -3,8 +3,8 @@ title: 'Cross Programming Language Encryption – C# vs JavaScript vs Go, Part 4
 author: admin
 type: post
 date: 2020-06-10T19:59:11+00:00
-url: /index.php/cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2015/11/dna-structure.jpg
+url: /cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
+featured_image: /media/2015/11/dna-structure.jpg
 eltd_featured_post_meta:
   - no
 eltd_disable_footer_meta:
@@ -139,6 +139,6 @@ Another difference would be that an X.509 certificate, must and will always have
  [40]: https://en.wikipedia.org/wiki/Public_key_infrastructure
  [41]: https://security.stackexchange.com/questions/80853/relationship-between-rsa-diffie-hellman-key-exchange-pki-and-x-509
  [42]: https://blog.gisspan.com/2016/04/making-sense-of-ssl-rsa-x509-and-csr.html
- [43]: https://lunaticthinker.me/index.php/cross-programming-language-encryption-csharp-part-1/
- [44]: https://lunaticthinker.me/index.php/cross-programming-language-encryption-javascript-vs-go-part-3/
- [45]: /index.php/cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
+ [43]: https://lunaticthinker.me/cross-programming-language-encryption-csharp-part-1/
+ [44]: https://lunaticthinker.me/cross-programming-language-encryption-javascript-vs-go-part-3/
+ [45]: /cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/

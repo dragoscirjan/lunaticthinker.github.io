@@ -3,7 +3,7 @@ title: So peaceful near you
 author: dragos
 type: post
 date: 2012-01-11T00:23:04+00:00
-url: /index.php/so-peaceful-near-you/
+url: /so-peaceful-near-you/
 categories:
   - Red Wine
 

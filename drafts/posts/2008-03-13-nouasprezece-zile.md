@@ -3,7 +3,7 @@ title: Nouasprezece Zile
 author: dragos
 type: post
 date: 2008-03-13T12:04:49+00:00
-url: /index.php/nouasprezece-zile/
+url: /nouasprezece-zile/
 categories:
   - 'SciFi &amp; Fantasy'
 

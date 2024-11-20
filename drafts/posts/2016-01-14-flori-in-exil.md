@@ -3,8 +3,8 @@ title: Flori in exil
 author: dragos
 type: post
 date: 2016-01-13T23:18:53+00:00
-url: /index.php/flori-in-exil/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2016/01/amaranth_by_shhadowfang-d586j3e.jpg
+url: /flori-in-exil/
+featured_image: /media/2016/01/amaranth_by_shhadowfang-d586j3e.jpg
 categories:
   - O linie franta in doi
 

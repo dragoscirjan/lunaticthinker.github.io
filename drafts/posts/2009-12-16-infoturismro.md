@@ -3,7 +3,7 @@ title: infoturism.ro
 author: dragos
 type: post
 date: 2009-12-16T05:40:32+00:00
-url: /index.php/infoturismro/
+url: /infoturismro/
 categories:
   - Uncategorized
 

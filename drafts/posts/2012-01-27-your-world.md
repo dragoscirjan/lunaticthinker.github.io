@@ -3,7 +3,7 @@ title: Your world
 author: dragos
 type: post
 date: 2012-01-26T23:32:16+00:00
-url: /index.php/your-world/
+url: /your-world/
 categories:
   - Red Wine
 

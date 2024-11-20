@@ -3,7 +3,7 @@ title: The Tourment
 author: dragos
 type: post
 date: 2012-04-28T08:39:59+00:00
-url: /index.php/the-tourment/
+url: /the-tourment/
 categories:
   - The (round) line
 

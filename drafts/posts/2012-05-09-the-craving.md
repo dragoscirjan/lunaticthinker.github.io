@@ -3,7 +3,7 @@ title: The Craving
 author: dragos
 type: post
 date: 2012-05-08T22:50:08+00:00
-url: /index.php/the-craving/
+url: /the-craving/
 categories:
   - The (round) line
 

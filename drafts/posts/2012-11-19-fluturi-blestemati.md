@@ -3,7 +3,7 @@ title: Fluturi blestemati
 author: dragos
 type: post
 date: 2012-11-18T23:39:17+00:00
-url: /index.php/fluturi-blestemati/
+url: /fluturi-blestemati/
 categories:
   - Art of Life
   - O linie franta in doi

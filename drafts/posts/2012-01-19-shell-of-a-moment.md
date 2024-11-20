@@ -3,7 +3,7 @@ title: Shell of a moment!
 author: dragos
 type: post
 date: 2012-01-18T23:23:39+00:00
-url: /index.php/shell-of-a-moment/
+url: /shell-of-a-moment/
 categories:
   - Red Wine
 

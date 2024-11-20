@@ -3,8 +3,8 @@ title: CFML Generating Random String
 author: dragos
 type: post
 date: 2014-03-10T10:27:40+00:00
-url: /index.php/cfml-generating-random-string/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2014/03/dna-structure-cfml.png
+url: /cfml-generating-random-string/
+featured_image: /media/2014/03/dna-structure-cfml.png
 categories:
   - "Coder's Grave"
   - ColdFusion

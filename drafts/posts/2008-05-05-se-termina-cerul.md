@@ -3,7 +3,7 @@ title: Se termina cerul
 author: dragos
 type: post
 date: 2008-05-05T15:10:30+00:00
-url: /index.php/se-termina-cerul/
+url: /se-termina-cerul/
 categories:
   - 'SciFi &amp; Fantasy'
 

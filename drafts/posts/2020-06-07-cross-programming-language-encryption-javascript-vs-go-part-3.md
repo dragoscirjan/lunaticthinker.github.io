@@ -3,8 +3,8 @@ title: Cross Programming Language Encryption – NodeJs vs Go, Part 3
 author: admin
 type: post
 date: 2020-06-07T02:12:19+00:00
-url: /index.php/cross-programming-language-encryption-javascript-vs-go-part-3/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2020/06/dna-structure-node.jpg
+url: /cross-programming-language-encryption-javascript-vs-go-part-3/
+featured_image: /media/2020/06/dna-structure-node.jpg
 eltd_featured_post_meta:
   - no
 eltd_disable_footer_meta:
@@ -204,6 +204,6 @@ Except for that, the simplicity for writing encrypt and decrypt methods, is almo
  [10]: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
  [11]: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
  [12]: https://golang.org/pkg/crypto/
- [13]: /index.php/cross-programming-language-encryption-csharp-part-1/
- [14]: https://lunaticthinker.me/index.php/cross-programming-language-encryption-csharp-vs-go-part-2/
- [15]: /index.php/cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
+ [13]: /cross-programming-language-encryption-csharp-part-1/
+ [14]: https://lunaticthinker.me/cross-programming-language-encryption-csharp-vs-go-part-2/
+ [15]: /cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/

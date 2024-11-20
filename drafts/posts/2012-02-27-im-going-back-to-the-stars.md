@@ -3,7 +3,7 @@ title: I’m going back to the stars…
 author: dragos
 type: post
 date: 2012-02-27T01:05:27+00:00
-url: /index.php/im-going-back-to-the-stars/
+url: /im-going-back-to-the-stars/
 categories:
   - Red Wine
 

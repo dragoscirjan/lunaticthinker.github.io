@@ -3,8 +3,8 @@ title: Resizing Transparent PNG in ColdFusion
 author: dragos
 type: post
 date: 2018-03-18T01:03:15+00:00
-url: /index.php/resizing-transparent-png-in-coldfusion/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2014/03/dna-structure-cfml.png
+url: /resizing-transparent-png-in-coldfusion/
+featured_image: /media/2014/03/dna-structure-cfml.png
 eltd_hide_background_image_meta:
   - no
 eltd_video_type_meta:

@@ -3,7 +3,7 @@ title: Stare de veghe
 author: dragos
 type: post
 date: 2008-03-13T11:59:01+00:00
-url: /index.php/stare-de-veghe/
+url: /stare-de-veghe/
 categories:
   - Art of Life
   - Azi soarele a apus pe dos

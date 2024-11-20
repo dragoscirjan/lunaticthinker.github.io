@@ -3,7 +3,7 @@ title: 90 Days Windows Extending Evaluation Period
 author: dragos
 type: post
 date: 2013-11-23T16:39:44+00:00
-url: /index.php/90-days-windows-extending-evaluation-period/
+url: /90-days-windows-extending-evaluation-period/
 categories:
   - Other OSs
 

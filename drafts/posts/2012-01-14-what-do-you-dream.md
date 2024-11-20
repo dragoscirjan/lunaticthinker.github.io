@@ -3,7 +3,7 @@ title: What do you dream?
 author: dragos
 type: post
 date: 2012-01-13T22:06:04+00:00
-url: /index.php/what-do-you-dream/
+url: /what-do-you-dream/
 categories:
   - Red Wine
 

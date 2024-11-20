@@ -3,8 +3,8 @@ title: Resetting Atom IDE
 author: dragos
 type: post
 date: 2016-05-30T07:25:08+00:00
-url: /index.php/resetting-atom-ide/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2016/05/atom.jpg
+url: /resetting-atom-ide/
+featured_image: /media/2016/05/atom.jpg
 categories:
   - "Coder's Grave"
   - Home Page

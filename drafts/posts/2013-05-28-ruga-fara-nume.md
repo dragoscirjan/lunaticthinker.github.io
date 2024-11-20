@@ -3,8 +3,8 @@ title: Ruga fara nume
 author: dragos
 type: post
 date: 2013-05-28T00:10:38+00:00
-url: /index.php/ruga-fara-nume/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2013/05/black-roses-burning-sculpture.jpg
+url: /ruga-fara-nume/
+featured_image: /media/2013/05/black-roses-burning-sculpture.jpg
 categories:
   - Art of Life
   - O linie franta in doi

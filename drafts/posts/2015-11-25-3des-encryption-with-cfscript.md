@@ -3,8 +3,8 @@ title: 3DES Encryption with CFSCRIPT
 author: dragos
 type: post
 date: 2015-11-25T13:26:40+00:00
-url: /index.php/3des-encryption-with-cfscript/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2014/03/dna-structure-cfml.png
+url: /3des-encryption-with-cfscript/
+featured_image: /media/2014/03/dna-structure-cfml.png
 categories:
   - "Coder's Grave"
   - ColdFusion

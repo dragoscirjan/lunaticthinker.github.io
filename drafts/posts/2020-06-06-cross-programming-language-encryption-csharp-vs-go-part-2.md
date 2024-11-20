@@ -3,8 +3,8 @@ title: Cross Programming Language Encryption – CSharp vs Go, Part 2
 author: dragos
 type: post
 date: 2020-06-06T20:00:42+00:00
-url: /index.php/cross-programming-language-encryption-csharp-vs-go-part-2/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2020/06/dna-structure-go.jpg
+url: /cross-programming-language-encryption-csharp-vs-go-part-2/
+featured_image: /media/2020/06/dna-structure-go.jpg
 eltd_featured_post_meta:
   - no
 eltd_disable_footer_meta:
@@ -249,7 +249,7 @@ func (enc *RsaCrypt) Decrypt(password string) (string, error) {
  [3]: https://img.shields.io/github/followers/dragoscirjan?style=social
  [4]: https://github.com/dragoscirjan
  [5]: https://github.com/lunaticthinker-me/demo-cross-lang-encryption-go
- [6]: /index.php/cross-programming-language-encryption-csharp-part-1/
+ [6]: /cross-programming-language-encryption-csharp-part-1/
  [7]: https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
  [8]: https://en.wikipedia.org/wiki/RSA_(cryptosystem)
  [9]: https://golang.org/
@@ -259,5 +259,5 @@ func (enc *RsaCrypt) Decrypt(password string) (string, error) {
  [13]: https://en.wikipedia.org/wiki/Optimal_asymmetric_encryption_padding
  [14]: https://en.wikipedia.org/wiki/PKCS_1
  [15]: https://golang.org/pkg/crypto/
- [16]: https://lunaticthinker.me/index.php/cross-programming-language-encryption-javascript-vs-go-part-3/
- [17]: /index.php/cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
+ [16]: https://lunaticthinker.me/cross-programming-language-encryption-javascript-vs-go-part-3/
+ [17]: /cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/

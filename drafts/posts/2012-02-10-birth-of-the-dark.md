@@ -3,7 +3,7 @@ title: birth
 author: dragos
 type: post
 date: 2012-02-10T16:22:53+00:00
-url: /index.php/birth-of-the-dark/
+url: /birth-of-the-dark/
 categories:
   - Dark of the Moon Rose
 

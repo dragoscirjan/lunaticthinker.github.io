@@ -3,7 +3,7 @@ title: Azi, soarele a apus pe dos
 author: dragos
 type: post
 date: 2008-03-25T01:14:12+00:00
-url: /index.php/azi-soarele-a-apus-pe-dos/
+url: /azi-soarele-a-apus-pe-dos/
 categories:
   - Art of Life
   - Azi soarele a apus pe dos

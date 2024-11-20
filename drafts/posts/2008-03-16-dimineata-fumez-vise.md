@@ -3,8 +3,8 @@ title: Dimineata fumez vise
 author: dragos
 type: post
 date: 2008-03-16T01:45:40+00:00
-url: /index.php/dimineata-fumez-vise/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2008/03/women_smoking_black_cigarettes_desktop_1440x900_wallpaper-396834.jpg
+url: /dimineata-fumez-vise/
+featured_image: /media/2008/03/women_smoking_black_cigarettes_desktop_1440x900_wallpaper-396834.jpg
 categories:
   - Art of Life
   - Azi soarele a apus pe dos

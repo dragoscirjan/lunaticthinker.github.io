@@ -3,7 +3,7 @@ title: Masa tacerii
 author: dragos
 type: post
 date: 2008-03-13T11:59:51+00:00
-url: /index.php/masa-tacerii/
+url: /masa-tacerii/
 categories:
   - Art of Life
   - Azi soarele a apus pe dos

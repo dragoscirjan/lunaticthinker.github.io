@@ -3,7 +3,7 @@ title: Larg închis
 author: dragos
 type: post
 date: 2016-06-23T09:58:43+00:00
-url: /index.php/larg-inchis/
+url: /larg-inchis/
 categories:
   - Rosu
 

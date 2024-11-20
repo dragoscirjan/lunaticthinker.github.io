@@ -3,8 +3,8 @@ title: Zend framework 2 generating route url with domain name
 author: dragos
 type: post
 date: 2013-10-25T08:55:40+00:00
-url: /index.php/zend-framework-2-generating-route-url-with-domain-name/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2013/10/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg
+url: /zend-framework-2-generating-route-url-with-domain-name/
+featured_image: /media/2013/10/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg
 eltd_hide_background_image_meta:
   - no
 eltd_video_type_meta:

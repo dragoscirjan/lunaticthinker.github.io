@@ -3,8 +3,8 @@ title: Cross Programming Language Encryption – CSharp, Part 1
 author: dragos
 type: post
 date: 2020-05-05T08:04:07+00:00
-url: /index.php/cross-programming-language-encryption-csharp-part-1/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2020/05/dna-structure-csharp.jpg
+url: /cross-programming-language-encryption-csharp-part-1/
+featured_image: /media/2020/05/dna-structure-csharp.jpg
 eltd_featured_post_meta:
   - no
 eltd_disable_footer_meta:
@@ -276,6 +276,6 @@ As for our problem of **Cross Programming Language Encryption**, I have only pre
  [45]: https://stackoverflow.com/questions/13238674/aes-vs-rsa-to-encrypt-large-size-of-data
  [46]: https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=dotnet-plat-ext-3.1
  [47]: https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.x509certificates.x509certificate2?view=netcore-3.1
- [48]: /index.php/cross-programming-language-encryption-csharp-vs-go-part-2/
- [49]: https://lunaticthinker.me/index.php/cross-programming-language-encryption-javascript-vs-go-part-3/
- [50]: /index.php/cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/
+ [48]: /cross-programming-language-encryption-csharp-vs-go-part-2/
+ [49]: https://lunaticthinker.me/cross-programming-language-encryption-javascript-vs-go-part-3/
+ [50]: /cross-programming-language-encryption-c-vs-javascript-vs-go-part-4/

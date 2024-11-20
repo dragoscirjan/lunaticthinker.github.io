@@ -3,8 +3,8 @@ title: Convert camelCase to Underscores Using sed (mod)
 author: dragos
 type: post
 date: 2009-12-08T06:14:03+00:00
-url: /index.php/en-convert-camelcase-to-underscores-using-sed-mod/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2009/12/bash.jpg
+url: /en-convert-camelcase-to-underscores-using-sed-mod/
+featured_image: /media/2009/12/bash.jpg
 categories:
   - Linux in a Box
   - Uncategorized

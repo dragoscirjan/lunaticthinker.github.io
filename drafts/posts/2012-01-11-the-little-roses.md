@@ -3,7 +3,7 @@ title: The little roses
 author: dragos
 type: post
 date: 2012-01-11T00:25:40+00:00
-url: /index.php/the-little-roses/
+url: /the-little-roses/
 categories:
   - Red Wine
 

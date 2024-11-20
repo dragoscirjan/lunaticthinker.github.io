@@ -3,7 +3,7 @@ title: IP/TCP/UDP header vs C/C++
 author: dragos
 type: post
 date: 2008-04-09T23:28:43+00:00
-url: /index.php/iptcpudp-header-vs-cc/
+url: /iptcpudp-header-vs-cc/
 eltd_hide_background_image_meta:
   - no
 eltd_video_type_meta:

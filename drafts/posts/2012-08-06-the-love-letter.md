@@ -3,7 +3,7 @@ title: the love letter
 author: dragos
 type: post
 date: 2012-08-06T20:31:01+00:00
-url: /index.php/the-love-letter/
+url: /the-love-letter/
 categories:
   - Art of Life
   - The (round) line

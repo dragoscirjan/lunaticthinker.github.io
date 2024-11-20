@@ -3,8 +3,8 @@ title: Docker Toolbox port forwarding to localhost or the network
 author: dragos
 type: post
 date: 2018-03-18T00:28:08+00:00
-url: /index.php/docker-toolbox-port-forwarding-to-localhost-or-the-network/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2018/03/docker-banner2.jpg
+url: /docker-toolbox-port-forwarding-to-localhost-or-the-network/
+featured_image: /media/2018/03/docker-banner2.jpg
 eltd_hide_background_image_meta:
   - no
 eltd_video_type_meta:

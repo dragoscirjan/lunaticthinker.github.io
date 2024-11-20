@@ -3,7 +3,7 @@ title: Linux 2 USB Flash Drive
 author: dragos
 type: post
 date: 2009-11-17T17:20:48+00:00
-url: /index.php/linux-2-usb-flash-drive/
+url: /linux-2-usb-flash-drive/
 categories:
   - Uncategorized
 

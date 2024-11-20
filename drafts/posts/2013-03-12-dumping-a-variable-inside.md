@@ -3,8 +3,8 @@ title: Dumping object inside cfscript tag
 author: dragos
 type: post
 date: 2013-03-12T10:35:03+00:00
-url: /index.php/dumping-a-variable-inside/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2014/03/dna-structure-cfml.png
+url: /dumping-a-variable-inside/
+featured_image: /media/2014/03/dna-structure-cfml.png
 categories:
   - "Coder's Grave"
   - ColdFusion

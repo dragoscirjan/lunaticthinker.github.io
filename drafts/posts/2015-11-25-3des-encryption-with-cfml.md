@@ -3,8 +3,8 @@ title: 3DES Encryption with CFML
 author: dragos
 type: post
 date: 2015-11-25T14:13:21+00:00
-url: /index.php/3des-encryption-with-cfml/
-featured_image: http://lunaticthinker.me/wp-content/uploads/2014/03/dna-structure-cfml.png
+url: /3des-encryption-with-cfml/
+featured_image: /media/2014/03/dna-structure-cfml.png
 categories:
   - Uncategorized
 tags:
