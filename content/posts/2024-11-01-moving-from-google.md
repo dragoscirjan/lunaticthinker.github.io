@@ -1,9 +1,7 @@
-+++
+---
 date = '2024-11-01T22:36:03+02:00'
 title = 'Moving from Google Cloud and Wordpress to Github Pages'
-+++
-
-## Introduction
+---
 
 Hi. I am gradualy moving from a Google Cloud and Wordpress, to Github Pages. 
 Please have patience with me. All posts will be published back as soon as possible.
